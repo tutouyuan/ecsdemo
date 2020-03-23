@@ -1,3 +1,4 @@
 int day,MyLife;
 for(day=0;day<=MyLife;day++)
 printf("Love you");
+//其实吧，我也没那么快乐
